@@ -29,7 +29,7 @@ I build **scalable systems**, experiment with **multi-agent simulations**, and c
 
 ```javascript
 const rudra = {
-  location: "India 🇮🇳",
+  location: "Gurgaon, India 🇮🇳",
   currentFocus: "Building AI-powered systems & scalable backends",
   learning: ["Distributed Systems", "Advanced Go Patterns", "LLM Orchestration"],
   philosophy: "Ship fast, break things, iterate aggressively",
